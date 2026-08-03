@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://monishkumarvr.github.io/sitemap.xml
+Sitemap: https://monishkumarvr.github.io/monishkumarvr/sitemap.xml
